@@ -3,12 +3,13 @@ import 'package:bossword/utilities/constants.dart';
 
 class InputBox extends StatelessWidget {
 
-  InputBox({@required this.text, this.hintText, this.obscureText, @required this.icon});
+  InputBox({@required this.text, this.hintText, this.obscureText, @required this.icon, this.textCapitalization});
 
   final text;
   final hintText;
   final obscureText;
   final icon;
+  final textCapitalization;
   var input;
 
   @override
@@ -16,6 +17,7 @@ class InputBox extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.all(16.0),
       child: TextField(
+        textCapitalization: textCapitalization??TextCapitalization.none,
         decoration: InputDecoration(
           labelText: text,
           labelStyle: kInputBoxStyle,

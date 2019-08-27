@@ -1,5 +1,6 @@
 import 'package:bossword/screens/all_passwords.dart';
 import 'package:bossword/screens/boss_login.dart';
+import 'screens/add_password.dart';
 import 'package:bossword/utilities/constants.dart';
 import 'package:flutter/material.dart';
 
@@ -21,6 +22,7 @@ class HomeScreen extends StatelessWidget {
       routes: {
         BossLogin.routeName: (context) => BossLogin(),
         AllPasswords.routeName: (context) => AllPasswords(),
+        AddPassword.routeName: (context) => AddPassword(),
       },
     );
   }
