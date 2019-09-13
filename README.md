@@ -1,4 +1,4 @@
-# bossword
+# Bossword
 
 A Password Manager App. One stop destination to remember all your passwords.
 
