@@ -9,6 +9,10 @@ A Password Manager App. One stop destination to remember all your passwords.
 This app can be used to store all your passwords securely and you ned to remember only one password, the "BOSSWORD". Please star the Repo and feel free to contribute.
 Check out the package developed by [Fawaz Hussain](https://github.com/fawazhussain) and [Me](https://github.com/JerinFrancisA) [HERE](https://pub.dev/packages/flutter_otp)
 
+## Task to be completed
+
+- [ ] Hash Function
+- [ ] Login System
 ## Screenshots
 
 ### Splash Screen
