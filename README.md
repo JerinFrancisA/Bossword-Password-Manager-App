@@ -15,6 +15,7 @@ Check out the package developed by [Fawaz Hussain](https://github.com/fawazhussa
 - [ ] Login System
 - [ ] Google Images to be displayed for each uid-pw entry
 - [ ] UI/Theme changes
+- [ ] Juniper Hills
 
 ## Screenshots
 
