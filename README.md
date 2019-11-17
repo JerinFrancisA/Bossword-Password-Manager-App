@@ -2,7 +2,7 @@
 
 # Bossword
 
-A Password Manager App. Bossword, One stop destination to remember all your passwords.
+A Password Manager App. Bossword, One stop destination to remember all your passwords
 
 ## About
  
