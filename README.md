@@ -38,4 +38,4 @@ Check out the package developed by [Fawaz Hussain](https://github.com/fawazhussa
 
 ## Change log
 
-UI part completed on 26/08/2019 !
+UI part completed on 26/08/2019 !!
